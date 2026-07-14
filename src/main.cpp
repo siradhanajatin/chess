@@ -2,14 +2,23 @@
 #include "raylib.h"
 
 int main() {
-    InitWindow(800, 800, "Chess - Raylib");
+    InitWindow(640, 640, "Chess - Raylib");
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
         BeginDrawing();
         ClearBackground(RAYWHITE);
-        DrawText("Chess board coming soon...", 220, 380, 20, BLACK);
-        DrawFPS(10, 10);
+
+        for (int i=0; i<8; i++) {
+            for (int j=0; j<8; j++) {
+                if (i%2==0) {
+                    DrawRectangle( 0+(160*j), 0+(80*i), 80, 80, BLACK);
+                } else {
+                    DrawRectangle( 80+(160*j), 0+(80*i), 80, 80, BLACK);
+                }
+            }
+        }
+
         EndDrawing();
     }
 
