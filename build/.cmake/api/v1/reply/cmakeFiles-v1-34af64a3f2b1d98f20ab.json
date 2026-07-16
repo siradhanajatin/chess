@@ -17,7 +17,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.4.0-rc2/CMakeSystem.cmake"
+			"path" : "build/CMakeFiles/4.4.0/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -31,7 +31,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.4.0-rc2/CMakeCXXCompiler.cmake"
+			"path" : "build/CMakeFiles/4.4.0/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -95,7 +95,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.4.0-rc2/CMakeRCCompiler.cmake"
+			"path" : "build/CMakeFiles/4.4.0/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -188,7 +188,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.4.0-rc2/CMakeCCompiler.cmake"
+			"path" : "build/CMakeFiles/4.4.0/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,

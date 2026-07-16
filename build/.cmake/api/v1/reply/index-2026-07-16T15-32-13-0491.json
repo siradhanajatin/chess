@@ -19,8 +19,8 @@
 			"major" : 4,
 			"minor" : 4,
 			"patch" : 0,
-			"string" : "4.4.0-rc2",
-			"suffix" : "rc2"
+			"string" : "4.4.0",
+			"suffix" : ""
 		}
 	},
 	"objects" : 
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-6c5fb8bfac0bf9c5dbbc.json",
+			"jsonFile" : "cmakeFiles-v1-34af64a3f2b1d98f20ab.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -117,7 +117,7 @@
 						}
 					},
 					{
-						"jsonFile" : "cmakeFiles-v1-6c5fb8bfac0bf9c5dbbc.json",
+						"jsonFile" : "cmakeFiles-v1-34af64a3f2b1d98f20ab.json",
 						"kind" : "cmakeFiles",
 						"version" : 
 						{
